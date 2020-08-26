@@ -6,3 +6,5 @@ este es un repositorio inicial de Git
 1. optimizacion
 2.simulacion MonteCarlo
 3. Ecuaciones diferenciales
+
+### este repositorio tambien contiene la lista de compras
